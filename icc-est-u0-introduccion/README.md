@@ -8,3 +8,18 @@ Nombre :
 Fecha 06 de octubre 
 
 Hoy cree el proyecto de java y funciono todo. 
+
+## Practica 2 
+
+Fecha: 08 de octubre
+
+Adicioné el método de busqueda y todo se danio.
+
+
+public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+    
+}
+--text
