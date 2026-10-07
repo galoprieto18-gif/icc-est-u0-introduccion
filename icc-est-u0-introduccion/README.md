@@ -1,7 +1,6 @@
 ## Estructura de datos ## 
 
-
-Integrante: 
+Nombre : 
 
 - Galo Prieto
 
