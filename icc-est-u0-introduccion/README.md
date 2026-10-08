@@ -15,11 +15,5 @@ Fecha: 08 de octubre
 
 Adicioné el método de busqueda y todo se danio.
 
+![alt text](image.png)
 
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
-    
-}
---text
